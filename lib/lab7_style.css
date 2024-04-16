@@ -1,0 +1,106 @@
+body{
+  background-color: #1E1E1E;
+}
+table {
+  border-spacing:20px;
+  margin: auto;
+  background-color: rgba(76, 77, 90, 1);
+
+}
+td {
+  background-color:rgba(217, 217, 217, 1);
+  width: 273px;
+  border-radius: 15px;
+}
+.main{
+  text-align: center;
+}
+
+.cell {
+    height: 273px;
+}
+
+.img1 {
+    border-radius: 15px;
+}
+
+.block1 {
+    position: relative;
+    width: 256px;
+    left: 20px;
+}
+
+.block2 {
+    position: relative;
+    width: 196px;
+    left: 35px;
+}
+
+.block3 {
+    position: relative;
+    width: 196px;
+    left: 21px;
+}
+
+.create-line {
+    width: 224px;
+    border-top: 3px solid #afb4ff;
+}
+
+.create-line1 {
+    width: 80px;
+    border-top: 3px solid #3C477D;
+}
+
+.create-line2 {
+    width: 57px;
+    border-top: 3px solid #3C477D;
+}
+
+.create-line3 {
+    width: 100px;
+    border-top: 3px solid #3C477D;
+}
+
+.create-line4 {
+    width: 25px;
+    border-top: 3px solid #3C477D;
+}
+
+.img2 {
+    position: relative;
+    top: 21px;
+}
+
+.img3 {
+    position: relative;
+    top: 20px;
+    right: 30px;
+}
+
+.img4 {
+    position: relative;
+    top: 60px;
+}
+
+.img5 {
+    position: relative;
+    top: 40px;
+    right: 20px
+}
+
+.img6 {
+    position: relative;
+    top: 25px;
+    left: 10px;
+}
+
+.direction {
+    position: relative;
+    right: 20px;
+}
+
+.hobby {
+    position: relative;
+    right: 20px;
+}
